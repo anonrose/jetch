@@ -1,0 +1,19 @@
+{
+  "name": "jetch",
+  "version": "1.0.3",
+  "description": "fetch json the easy way",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anonrose/jetch.git"
+  },
+  "author": "Kyle Rose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anonrose/jetch/issues"
+  },
+  "homepage": "https://github.com/anonrose/jetch#readme"
+}
