@@ -4,7 +4,9 @@ ___________
 A slightly easier way to fetch json
 
 ### Usage
-
+```bash 
+$ npm install jetch --save
+```
 ```javascript
 import jetch from 'jetch';
 
