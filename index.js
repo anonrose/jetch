@@ -1,5 +1,5 @@
-export default async function (endpoint) {
-  let response = await fetch(endpoint);
+export default async function (...args) {
+  let response = await fetch(...args);
   if (response.status === 200) {
     let json = await response.json();
 
